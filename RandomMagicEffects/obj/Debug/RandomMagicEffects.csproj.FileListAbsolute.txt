@@ -1,0 +1,9 @@
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\bin\Debug\RandomMagicEffects.exe.config
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\bin\Debug\RandomMagicEffects.exe
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\bin\Debug\RandomMagicEffects.pdb
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.csprojResolveAssemblyReference.cache
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.Form1.resources
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.Properties.Resources.resources
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.csproj.GenerateResource.Cache
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.exe
+D:\Documents\VSC2013\Repos\DnD\RandomMagicEffects\RandomMagicEffects\obj\Debug\RandomMagicEffects.pdb
